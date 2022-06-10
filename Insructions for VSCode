@@ -1,0 +1,12 @@
+# Инструкция по работе с git и VS Code
+
+## Проверка работы git и VS Code 
+Перед началом  работы с git и VS Code, необходимо выполнить следующие действия: 
+1. Активировать _Terminal_ (Terminale-New Terminale);
+2. ввести в _Terminal_ команду "git version" (в _Terminale_ отобразиться рабочая версия);
+3. ввести в _Terminal_ команду "git status" (в _Terminale_ отобразиться текущее состояние).
+
+
+
+
+
